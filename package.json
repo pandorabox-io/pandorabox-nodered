@@ -1,6 +1,6 @@
 {
     "name": "pandorabox-nodered",
-    "description": "Ein Node-RED-Projekt",
+    "description": "Pandorabox nodered bots",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
